@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Happy birthday</string>
+    <string name="info">Info</string>
+    <string name="jaguar">JAGUAR</string>
+    <string name="car">car description</string>
+    <string name="notify">Notify me</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
+
